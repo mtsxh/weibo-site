@@ -4,7 +4,7 @@
   LanguageName = "English"
   weight = 1
 
-[pt]
-  title = "Claridade" # just for the sake of showing this is possible
-  LanguageName = "Português"
+[zh-CN]
+  title = "Clarity中文版" # just for the sake of showing this is possible
+  LanguageName = "简体中文"
   weight = 2
